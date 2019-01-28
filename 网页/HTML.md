@@ -123,6 +123,52 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
 *  小于	 `&lt;`
 *  引号	 `&quot;`
 *  版权号 `&copy;`
+
+#### 表格相关元素
+
+```
+<table>
+    <tr>
+        <td>表头</td>
+        <td>表头</td>
+        <td>表头</td>
+    </tr>
+    <tr>
+        <td>内容单元格</td>
+        <td>内容单元格</td>
+        <td><a href="http://www.baidu.com">操作</td>
+    </tr>
+    <tr>
+        <td>内容单元格</td>
+        <td>内容单元格</td>
+        <td><a href="http://www.baidu.com">操作</td>
+    </tr>
+    <tr>
+        <td>内容单元格</td>
+        <td>内容单元格</td>
+        <td><a href="http://www.baidu.com">操作</td>
+    </tr>
+    <tr>
+        <td>内容单元格</td>
+        <td>内容单元格</td>
+        <td><a href="http://www.baidu.com">操作</td>
+    </tr>
+    <tr >
+        <td>总计</td>
+        <td colspan="2">1000</td><!--横向跨越的列数-->
+    </tr>
+</table>
+```
+###### 用在td上 colspan 用来指定合并行数 rowspan 用来指定合并列数
+
+#### 表单标签
+
+* form标签 
+
+    > action：指定表单提交后由服务器上的哪个处理程序进行处理
+
+    > method：指定向服务器提交的方式一般为get和post两种方法
+
  
 
 
