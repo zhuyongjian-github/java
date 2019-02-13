@@ -58,7 +58,7 @@ CSS教程
    >> ![](images/2.png)
  
  * > 边框相关属性
- 
+   >> border-radius 圆角边框
    >> ![](images/3.png)
    
  * > 背景相关属性
