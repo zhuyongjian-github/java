@@ -64,12 +64,7 @@ CSS教程
    >> ![](images/2.png)
  
  * > 边框相关属性
-<<<<<<< HEAD
- * >> border-radius 增加圆角边框
- 
-=======
    >> border-radius 圆角边框
->>>>>>> 41f611a88eb32e9553ba8a46581f13a27a07664f
    >> ![](images/3.png)
    
  * > 背景相关属性
