@@ -54,11 +54,22 @@ CSS教程
    >> ![](images/1.png)
    
  * > 文本属性
+   >> 文字一行显示，多出部分自动隐藏
+   >>> overflow: hidden; 内容超出后隐藏
+   
+   >>>text-overflow: ellipsis;超出内容显示为省略号
+   
+   >>>white-space: nowrap; 文本不进行换行
  
    >> ![](images/2.png)
  
  * > 边框相关属性
+<<<<<<< HEAD
+ * >> border-radius 增加圆角边框
+ 
+=======
    >> border-radius 圆角边框
+>>>>>>> 41f611a88eb32e9553ba8a46581f13a27a07664f
    >> ![](images/3.png)
    
  * > 背景相关属性
@@ -72,6 +83,12 @@ CSS教程
    >>> list-style-type类型
    
    >>> ![](images/6.png)
+   
+ * box-shadow 阴影
+   >> ![](images/8.png)
+   
+ * transform
+   >> ![](images/transform.png)
    
 #### css布局-盒子模型
 ![](images/7.png)
