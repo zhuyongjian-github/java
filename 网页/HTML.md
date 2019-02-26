@@ -200,7 +200,7 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
 * 文件上传域 `<input type="file">`
 * 图像按钮`<input type="image" name="assa" src="images/settled.png" width="100" height="20">`
 * 按钮 `<button>按钮</button>`
-* 隐藏控件 `<input type="hidden">
+* 隐藏控件 `<input type="hidden">`
 * html5 表单验证   required="required"
 
 #### 视频
@@ -211,8 +211,11 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
 * loop:就表示循环播放
 * preload:在页面加载时需要做什么,其有三个可选值:
 >>> none:该值表示在用户按下播放按钮之前,浏览器不必加载视频
+
 >>> auto:该值表示浏览器应该在页面加载时载入视频
+
 >>> metadata:该值表示浏览器只需要收集少量视频信息,比如大小,首帧图像,播放列表和持续时间
+
 ### 音频
 
 `<audio src=""></audio>`
