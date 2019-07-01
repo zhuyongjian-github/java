@@ -171,7 +171,7 @@ HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
     </tr>
 </table>
 ```
-###### 用在td上 colspan 用来指定合并行数 rowspan 用来指定合并列数
+###### 用在td上 colspan 列合并 rowspan 行合并
 
 #### 表单标签
 
